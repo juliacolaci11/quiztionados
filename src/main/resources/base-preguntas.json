@@ -1,0 +1,17 @@
+[
+    {
+        "pregunta": "¿Cuál es la capital de Francia?",
+        "opciones": ["París", "Londres", "Madrid", "Roma"],
+        "respuestaCorrecta": "París"
+    },
+    {
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "opciones": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+        "respuestaCorrecta": "Leonardo da Vinci"
+    },
+    {
+        "pregunta": "¿Qué elemento químico tiene el símbolo O?",
+        "opciones": ["Oro", "Oxígeno", "Osmio", "Odinio"],
+        "respuestaCorrecta": "Oxígeno"
+    }
+]
